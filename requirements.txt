@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+faiss-cpu
+pytesseract
+pillow
+pdf2image
+gradio
+gtts
+sentence-transformers
